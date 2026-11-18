@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "unidad": "ess-carbon",
+  "duracion": 492.57,
+  "cues": [
+    {
+      "t": 65.57,
+      "reanudar": 70.57,
+      "preguntaId": "ess-carbon-p02",
+      "tipo": "pausa",
+      "titulo": "Matter cycles"
+    },
+    {
+      "t": 133.73,
+      "reanudar": 138.73,
+      "preguntaId": "ess-carbon-p12",
+      "tipo": "pausa",
+      "titulo": "Stores and flows"
+    },
+    {
+      "t": 174.5,
+      "reanudar": 179.5,
+      "preguntaId": "ess-carbon-p14",
+      "tipo": "pausa",
+      "titulo": "Transfers and transformations"
+    },
+    {
+      "t": 239.87,
+      "reanudar": 244.87,
+      "preguntaId": "ess-carbon-p22",
+      "tipo": "pausa",
+      "titulo": "Sinks, stores and sources"
+    },
+    {
+      "t": 281.13,
+      "reanudar": 286.13,
+      "preguntaId": "ess-carbon-p27",
+      "tipo": "pausa",
+      "titulo": "The lithosphere"
+    },
+    {
+      "t": 417.23,
+      "reanudar": 421.23,
+      "preguntaId": "ess-carbon-p18",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 434.6,
+      "reanudar": 438.6,
+      "preguntaId": "ess-carbon-p19",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 453.4,
+      "reanudar": 457.4,
+      "preguntaId": "ess-carbon-p21",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 20.63,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 290.37,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 349.93,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 408.9,
+      "titulo": "Recall"
+    }
+  ]
+}
