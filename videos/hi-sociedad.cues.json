@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "unidad": "hi-sociedad",
+  "duracion": 399.13,
+  "cues": [
+    {
+      "t": 79.47,
+      "reanudar": 84.47,
+      "preguntaId": "hi-soc-04",
+      "tipo": "pausa",
+      "titulo": "La juventud"
+    },
+    {
+      "t": 159.37,
+      "reanudar": 164.37,
+      "preguntaId": "hi-soc-10",
+      "tipo": "pausa",
+      "titulo": "Las mujeres"
+    },
+    {
+      "t": 226.17,
+      "reanudar": 231.17,
+      "preguntaId": "hi-soc-20",
+      "tipo": "pausa",
+      "titulo": "Jueces e Iglesias"
+    },
+    {
+      "t": 336.03,
+      "reanudar": 340.03,
+      "preguntaId": "hi-soc-11",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 347.13,
+      "reanudar": 351.13,
+      "preguntaId": "hi-soc-16",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 360.83,
+      "reanudar": 364.83,
+      "preguntaId": "hi-soc-21",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 22.9,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 235.63,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 289.43,
+      "titulo": "Dibuja"
+    },
+    {
+      "t": 330.07,
+      "titulo": "Recuerda"
+    }
+  ]
+}

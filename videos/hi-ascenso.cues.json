@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "unidad": "hi-ascenso",
+  "duracion": 404.9,
+  "cues": [
+    {
+      "t": 58.2,
+      "reanudar": 63.2,
+      "preguntaId": "hi-asc-01",
+      "tipo": "pausa",
+      "titulo": "El crac llega a Alemania"
+    },
+    {
+      "t": 117.57,
+      "reanudar": 122.57,
+      "preguntaId": "hi-asc-16",
+      "tipo": "pausa",
+      "titulo": "De la crisis económica a la política"
+    },
+    {
+      "t": 194.37,
+      "reanudar": 199.37,
+      "preguntaId": "hi-asc-20",
+      "tipo": "pausa",
+      "titulo": "Por qué votaron a Hitler"
+    },
+    {
+      "t": 266.3,
+      "reanudar": 271.3,
+      "preguntaId": "hi-asc-21",
+      "tipo": "pausa",
+      "titulo": "El pacto entre bastidores"
+    },
+    {
+      "t": 338.53,
+      "reanudar": 342.53,
+      "preguntaId": "hi-asc-09",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 355.1,
+      "reanudar": 359.1,
+      "preguntaId": "hi-asc-08",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 369.1,
+      "reanudar": 373.1,
+      "preguntaId": "hi-asc-22",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 17.37,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 276.03,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 329.93,
+      "titulo": "Recuerda"
+    }
+  ]
+}

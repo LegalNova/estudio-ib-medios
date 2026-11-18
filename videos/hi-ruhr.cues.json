@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "unidad": "hi-ruhr",
+  "duracion": 396.97,
+  "cues": [
+    {
+      "t": 104.23,
+      "reanudar": 109.23,
+      "preguntaId": "hi-ruh-01",
+      "tipo": "pausa",
+      "titulo": "La ocupación del Ruhr"
+    },
+    {
+      "t": 167.57,
+      "reanudar": 172.57,
+      "preguntaId": "hi-ruh-18",
+      "tipo": "pausa",
+      "titulo": "Imprimir para resistir"
+    },
+    {
+      "t": 237.3,
+      "reanudar": 242.3,
+      "preguntaId": "hi-ruh-08",
+      "tipo": "pausa",
+      "titulo": "La salida de la crisis"
+    },
+    {
+      "t": 338.23,
+      "reanudar": 342.23,
+      "preguntaId": "hi-ruh-16",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 347.63,
+      "reanudar": 351.63,
+      "preguntaId": "hi-ruh-05",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 360.57,
+      "reanudar": 364.57,
+      "preguntaId": "hi-ruh-07",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 20.2,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 246.93,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 292.2,
+      "titulo": "Dibuja"
+    },
+    {
+      "t": 332,
+      "titulo": "Recuerda"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "unidad": "m-sys",
+  "duracion": 423.6,
+  "cues": [
+    {
+      "t": 108.33,
+      "reanudar": 113.33,
+      "preguntaId": "m-sys-t06",
+      "tipo": "pausa",
+      "titulo": "El menú Equation"
+    },
+    {
+      "t": 174.53,
+      "reanudar": 179.53,
+      "preguntaId": "m-sys-t02",
+      "tipo": "pausa",
+      "titulo": "El método de Gauss"
+    },
+    {
+      "t": 228.97,
+      "reanudar": 233.97,
+      "preguntaId": "m-sys-t03",
+      "tipo": "pausa",
+      "titulo": "Clasificar el sistema"
+    },
+    {
+      "t": 334.4,
+      "reanudar": 338.4,
+      "preguntaId": "m-sys-p6",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 362,
+      "reanudar": 366,
+      "preguntaId": "m-sys-n04",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 388.1,
+      "reanudar": 392.1,
+      "preguntaId": "m-sys-n07",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 27.47,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 239.2,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 284.8,
+      "titulo": "Dibuja"
+    },
+    {
+      "t": 326,
+      "titulo": "Recuerda"
+    }
+  ]
+}

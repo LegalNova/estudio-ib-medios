@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "en-listening",
+  "duracion": 399,
+  "cues": [
+    {
+      "t": 64.43,
+      "reanudar": 69.43,
+      "preguntaId": "en-listening-11",
+      "tipo": "pausa",
+      "titulo": "The listening routine"
+    },
+    {
+      "t": 127.97,
+      "reanudar": 132.97,
+      "preguntaId": "en-listening-07",
+      "tipo": "pausa",
+      "titulo": "The self-correction trap"
+    },
+    {
+      "t": 184.33,
+      "reanudar": 189.33,
+      "preguntaId": "en-listening-16",
+      "tipo": "pausa",
+      "titulo": "Mentioned is not correct"
+    },
+    {
+      "t": 251.1,
+      "reanudar": 256.1,
+      "preguntaId": "en-listening-09",
+      "tipo": "pausa",
+      "titulo": "Real spoken English"
+    },
+    {
+      "t": 341.3,
+      "reanudar": 345.3,
+      "preguntaId": "en-listening-15",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 354.57,
+      "reanudar": 358.57,
+      "preguntaId": "en-listening-14",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 367.23,
+      "reanudar": 371.23,
+      "preguntaId": "en-listening-13",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 24.83,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 260.37,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 296.57,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 333.07,
+      "titulo": "Recall"
+    }
+  ]
+}

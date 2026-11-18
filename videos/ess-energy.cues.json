@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "ess-energy",
+  "duracion": 485.73,
+  "cues": [
+    {
+      "t": 97.13,
+      "reanudar": 102.13,
+      "preguntaId": "ess-energy-p3",
+      "tipo": "pausa",
+      "titulo": "The second law"
+    },
+    {
+      "t": 178.37,
+      "reanudar": 183.37,
+      "preguntaId": "ess-energy-p2",
+      "tipo": "pausa",
+      "titulo": "Productivity"
+    },
+    {
+      "t": 255.23,
+      "reanudar": 260.23,
+      "preguntaId": "ess-energy-n05",
+      "tipo": "pausa",
+      "titulo": "Three pyramids"
+    },
+    {
+      "t": 288.4,
+      "reanudar": 293.4,
+      "preguntaId": "ess-energy-x14",
+      "tipo": "pausa",
+      "titulo": "Biomagnification"
+    },
+    {
+      "t": 414.93,
+      "reanudar": 418.93,
+      "preguntaId": "ess-energy-x10",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 434.13,
+      "reanudar": 438.13,
+      "preguntaId": "ess-energy-p1",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 449.3,
+      "reanudar": 453.3,
+      "preguntaId": "ess-energy-x16",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 20.47,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 303.13,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 360.27,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 409.47,
+      "titulo": "Recall"
+    }
+  ]
+}

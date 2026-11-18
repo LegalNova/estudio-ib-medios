@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "m-geo",
+  "duracion": 427.47,
+  "cues": [
+    {
+      "t": 62.87,
+      "reanudar": 67.87,
+      "preguntaId": "m-geo-x09",
+      "tipo": "pausa",
+      "titulo": "Qué es una geométrica"
+    },
+    {
+      "t": 122.53,
+      "reanudar": 127.53,
+      "preguntaId": "m-geo-x08",
+      "tipo": "pausa",
+      "titulo": "De porcentaje a razón"
+    },
+    {
+      "t": 171.93,
+      "reanudar": 176.93,
+      "preguntaId": "m-geo-x12",
+      "tipo": "pausa",
+      "titulo": "¿Término o suma?"
+    },
+    {
+      "t": 238.73,
+      "reanudar": 243.73,
+      "preguntaId": "m-geo-n11",
+      "tipo": "pausa",
+      "titulo": "Comparar con la tabla"
+    },
+    {
+      "t": 351.9,
+      "reanudar": 355.9,
+      "preguntaId": "m-geo-n05",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 373.97,
+      "reanudar": 377.97,
+      "preguntaId": "m-geo-x05",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 393.33,
+      "reanudar": 397.33,
+      "preguntaId": "m-geo-n07",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 26.87,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 256.13,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 301.1,
+      "titulo": "Dibuja"
+    },
+    {
+      "t": 341.17,
+      "titulo": "Recuerda"
+    }
+  ]
+}

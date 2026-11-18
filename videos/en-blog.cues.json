@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "en-blog",
+  "duracion": 418.13,
+  "cues": [
+    {
+      "t": 49.97,
+      "reanudar": 54.97,
+      "preguntaId": "en-blog-13",
+      "tipo": "pausa",
+      "titulo": "The blog rules"
+    },
+    {
+      "t": 102.37,
+      "reanudar": 107.37,
+      "preguntaId": "en-blog-06",
+      "tipo": "pausa",
+      "titulo": "Register and details"
+    },
+    {
+      "t": 173.87,
+      "reanudar": 178.87,
+      "preguntaId": "en-blog-22",
+      "tipo": "pausa",
+      "titulo": "How Paper 1 is marked"
+    },
+    {
+      "t": 248.5,
+      "reanudar": 253.5,
+      "preguntaId": "en-blog-16",
+      "tipo": "pausa",
+      "titulo": "Criterion C and CAP"
+    },
+    {
+      "t": 357.5,
+      "reanudar": 361.5,
+      "preguntaId": "en-blog-11",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 371.2,
+      "reanudar": 375.2,
+      "preguntaId": "en-blog-07",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 384.63,
+      "reanudar": 388.63,
+      "preguntaId": "en-blog-30",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 21.13,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 260.83,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 306.9,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 352.53,
+      "titulo": "Recall"
+    }
+  ]
+}

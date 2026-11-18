@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "en-creative",
+  "duracion": 397.57,
+  "cues": [
+    {
+      "t": 58.83,
+      "reanudar": 63.83,
+      "preguntaId": "en-creative-09",
+      "tipo": "pausa",
+      "titulo": "Precise words"
+    },
+    {
+      "t": 104.7,
+      "reanudar": 109.7,
+      "preguntaId": "en-creative-04",
+      "tipo": "pausa",
+      "titulo": "Grammar repair kit"
+    },
+    {
+      "t": 150.8,
+      "reanudar": 155.8,
+      "preguntaId": "en-creative-20",
+      "tipo": "pausa",
+      "titulo": "False friends"
+    },
+    {
+      "t": 217.1,
+      "reanudar": 222.1,
+      "preguntaId": "en-creative-21",
+      "tipo": "pausa",
+      "titulo": "Show, don’t tell"
+    },
+    {
+      "t": 333.27,
+      "reanudar": 337.27,
+      "preguntaId": "en-creative-10",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 347.03,
+      "reanudar": 351.03,
+      "preguntaId": "en-creative-26",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 362.67,
+      "reanudar": 366.67,
+      "preguntaId": "en-creative-18",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 21.1,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 228,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 290.6,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 327.67,
+      "titulo": "Recall"
+    }
+  ]
+}

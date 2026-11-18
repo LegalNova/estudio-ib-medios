@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "m-linfun",
+  "duracion": 446.13,
+  "cues": [
+    {
+      "t": 67.1,
+      "reanudar": 72.1,
+      "preguntaId": "m-linfun-x11",
+      "tipo": "pausa",
+      "titulo": "Qué dice cada número"
+    },
+    {
+      "t": 105.77,
+      "reanudar": 110.77,
+      "preguntaId": "m-linfun-x06",
+      "tipo": "pausa",
+      "titulo": "Antiimagen e inversa"
+    },
+    {
+      "t": 172.7,
+      "reanudar": 177.7,
+      "preguntaId": "m-linfun-n08",
+      "tipo": "pausa",
+      "titulo": "Comparar dos modelos"
+    },
+    {
+      "t": 262.6,
+      "reanudar": 267.6,
+      "preguntaId": "m-linfun-p4",
+      "tipo": "pausa",
+      "titulo": "La rampa y la norma"
+    },
+    {
+      "t": 375.33,
+      "reanudar": 379.33,
+      "preguntaId": "m-linfun-x12",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 392.23,
+      "reanudar": 396.23,
+      "preguntaId": "m-linfun-n06",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 407.93,
+      "reanudar": 411.93,
+      "preguntaId": "m-linfun-x14",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 23.73,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 274.93,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 319.27,
+      "titulo": "Dibuja"
+    },
+    {
+      "t": 367.53,
+      "titulo": "Recuerda"
+    }
+  ]
+}

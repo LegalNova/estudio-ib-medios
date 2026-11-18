@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "en-reading",
+  "duracion": 403.17,
+  "cues": [
+    {
+      "t": 77.8,
+      "reanudar": 82.8,
+      "preguntaId": "en-reading-24",
+      "tipo": "pausa",
+      "titulo": "Question types"
+    },
+    {
+      "t": 126.47,
+      "reanudar": 131.47,
+      "preguntaId": "en-reading-14",
+      "tipo": "pausa",
+      "titulo": "True or false"
+    },
+    {
+      "t": 176.83,
+      "reanudar": 181.83,
+      "preguntaId": "en-reading-12",
+      "tipo": "pausa",
+      "titulo": "Which word and reference words"
+    },
+    {
+      "t": 246,
+      "reanudar": 251,
+      "preguntaId": "en-reading-15",
+      "tipo": "pausa",
+      "titulo": "Paraphrase, irony and opinion"
+    },
+    {
+      "t": 340.07,
+      "reanudar": 344.07,
+      "preguntaId": "en-reading-10",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 353.57,
+      "reanudar": 357.57,
+      "preguntaId": "en-reading-22",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 369.17,
+      "reanudar": 373.17,
+      "preguntaId": "en-reading-16",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 22.57,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 256.8,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 293.6,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 331.37,
+      "titulo": "Recall"
+    }
+  ]
+}

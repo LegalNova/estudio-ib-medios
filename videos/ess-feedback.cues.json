@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "unidad": "ess-feedback",
+  "duracion": 472.53,
+  "cues": [
+    {
+      "t": 99.9,
+      "reanudar": 104.9,
+      "preguntaId": "ess-feedback-n01",
+      "tipo": "pausa",
+      "titulo": "Reinforcing or balancing?"
+    },
+    {
+      "t": 191.27,
+      "reanudar": 196.27,
+      "preguntaId": "ess-feedback-p3",
+      "tipo": "pausa",
+      "titulo": "Stability and resilience"
+    },
+    {
+      "t": 278.23,
+      "reanudar": 283.23,
+      "preguntaId": "ess-feedback-n08",
+      "tipo": "pausa",
+      "titulo": "Tipping points"
+    },
+    {
+      "t": 405.77,
+      "reanudar": 409.77,
+      "preguntaId": "ess-feedback-x05",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 421.53,
+      "reanudar": 425.53,
+      "preguntaId": "ess-feedback-x08",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 436.23,
+      "reanudar": 440.23,
+      "preguntaId": "ess-feedback-x10",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 22.63,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 289.83,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 349.13,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 399.63,
+      "titulo": "Recall"
+    }
+  ]
+}

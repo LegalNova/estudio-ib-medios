@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "ess-sustain",
+  "duracion": 477.2,
+  "cues": [
+    {
+      "t": 76.9,
+      "reanudar": 81.9,
+      "preguntaId": "ess-sustain-x06",
+      "tipo": "pausa",
+      "titulo": "The Great Acceleration"
+    },
+    {
+      "t": 151.27,
+      "reanudar": 156.27,
+      "preguntaId": "ess-sustain-n11",
+      "tipo": "pausa",
+      "titulo": "The fish lake"
+    },
+    {
+      "t": 218.6,
+      "reanudar": 223.6,
+      "preguntaId": "ess-sustain-n01",
+      "tipo": "pausa",
+      "titulo": "Footprints and overshoot"
+    },
+    {
+      "t": 289.07,
+      "reanudar": 294.07,
+      "preguntaId": "ess-sustain-n08",
+      "tipo": "pausa",
+      "titulo": "Damage or injustice?"
+    },
+    {
+      "t": 407.7,
+      "reanudar": 411.7,
+      "preguntaId": "ess-sustain-n10",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 424.37,
+      "reanudar": 428.37,
+      "preguntaId": "ess-sustain-p1",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 441.07,
+      "reanudar": 445.07,
+      "preguntaId": "ess-sustain-n07",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 22.27,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 299.77,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 354.4,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 398.73,
+      "titulo": "Recall"
+    }
+  ]
+}

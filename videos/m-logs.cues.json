@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "unidad": "m-logs",
+  "duracion": 429.17,
+  "cues": [
+    {
+      "t": 77.8,
+      "reanudar": 82.8,
+      "preguntaId": "m-logs-p6",
+      "tipo": "pausa",
+      "titulo": "Leyes de las potencias"
+    },
+    {
+      "t": 138.53,
+      "reanudar": 143.53,
+      "preguntaId": "m-logs-x11",
+      "tipo": "pausa",
+      "titulo": "Ecuaciones exponenciales"
+    },
+    {
+      "t": 197.27,
+      "reanudar": 202.27,
+      "preguntaId": "m-logs-t02",
+      "tipo": "pausa",
+      "titulo": "Propiedades de los logaritmos"
+    },
+    {
+      "t": 273.73,
+      "reanudar": 278.73,
+      "preguntaId": "m-logs-x12",
+      "tipo": "pausa",
+      "titulo": "Pasar a potencia"
+    },
+    {
+      "t": 365,
+      "reanudar": 369,
+      "preguntaId": "m-logs-x07",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 376.33,
+      "reanudar": 380.33,
+      "preguntaId": "m-logs-t05",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 390.7,
+      "reanudar": 394.7,
+      "preguntaId": "m-logs-n02",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 18.93,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 285.67,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 359.5,
+      "titulo": "Recuerda"
+    }
+  ]
+}

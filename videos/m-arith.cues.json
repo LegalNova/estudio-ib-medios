@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "m-arith",
+  "duracion": 411,
+  "cues": [
+    {
+      "t": 61.4,
+      "reanudar": 66.4,
+      "preguntaId": "m-arith-x04",
+      "tipo": "pausa",
+      "titulo": "El término general"
+    },
+    {
+      "t": 101.1,
+      "reanudar": 106.1,
+      "preguntaId": "m-arith-x08",
+      "tipo": "pausa",
+      "titulo": "La suma de n términos"
+    },
+    {
+      "t": 146.27,
+      "reanudar": 151.27,
+      "preguntaId": "m-arith-n10",
+      "tipo": "pausa",
+      "titulo": "Dos datos, un sistema"
+    },
+    {
+      "t": 233.9,
+      "reanudar": 238.9,
+      "preguntaId": "m-arith-v03",
+      "tipo": "pausa",
+      "titulo": "Hallar n"
+    },
+    {
+      "t": 342.67,
+      "reanudar": 346.67,
+      "preguntaId": "m-arith-x12",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 358.53,
+      "reanudar": 362.53,
+      "preguntaId": "m-arith-x13",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 375.03,
+      "reanudar": 379.03,
+      "preguntaId": "m-arith-n14",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 24.47,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 250.77,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 295.9,
+      "titulo": "Dibuja"
+    },
+    {
+      "t": 337.3,
+      "titulo": "Recuerda"
+    }
+  ]
+}

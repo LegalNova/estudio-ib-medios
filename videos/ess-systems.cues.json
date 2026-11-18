@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "unidad": "ess-systems",
+  "duracion": 441.67,
+  "cues": [
+    {
+      "t": 104.03,
+      "reanudar": 109.03,
+      "preguntaId": "ess-systems-p1",
+      "tipo": "pausa",
+      "titulo": "Open, closed, isolated"
+    },
+    {
+      "t": 190.73,
+      "reanudar": 195.73,
+      "preguntaId": "ess-systems-p3",
+      "tipo": "pausa",
+      "titulo": "Storages and flows"
+    },
+    {
+      "t": 259.1,
+      "reanudar": 264.1,
+      "preguntaId": "ess-systems-n07",
+      "tipo": "pausa",
+      "titulo": "Models: uses and limits"
+    },
+    {
+      "t": 372.3,
+      "reanudar": 376.3,
+      "preguntaId": "ess-systems-x06",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 386.8,
+      "reanudar": 390.8,
+      "preguntaId": "ess-systems-x02",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 403.47,
+      "reanudar": 407.47,
+      "preguntaId": "ess-systems-n04",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 19.7,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 271.13,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 305.93,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 363.8,
+      "titulo": "Recall"
+    }
+  ]
+}

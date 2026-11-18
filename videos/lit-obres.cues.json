@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "lit-obres",
+  "duracion": 443.63,
+  "cues": [
+    {
+      "t": 97.6,
+      "reanudar": 102.6,
+      "preguntaId": "lit-obres-08",
+      "tipo": "pausa",
+      "titulo": "L’argument"
+    },
+    {
+      "t": 144.87,
+      "reanudar": 149.87,
+      "preguntaId": "lit-obres-20",
+      "tipo": "pausa",
+      "titulo": "Els personatges"
+    },
+    {
+      "t": 199.6,
+      "reanudar": 204.6,
+      "preguntaId": "lit-obres-10",
+      "tipo": "pausa",
+      "titulo": "Temes i focalització"
+    },
+    {
+      "t": 251.07,
+      "reanudar": 256.07,
+      "preguntaId": "lit-obres-15",
+      "tipo": "pausa",
+      "titulo": "To i símbols"
+    },
+    {
+      "t": 365.27,
+      "reanudar": 369.27,
+      "preguntaId": "lit-obres-23",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 1/3"
+    },
+    {
+      "t": 381.43,
+      "reanudar": 385.43,
+      "preguntaId": "lit-obres-16",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 2/3"
+    },
+    {
+      "t": 397.67,
+      "reanudar": 401.67,
+      "preguntaId": "lit-obres-21",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 21.77,
+      "titulo": "Explicació"
+    },
+    {
+      "t": 261,
+      "titulo": "Construeix la resposta"
+    },
+    {
+      "t": 315.7,
+      "titulo": "Dibuixa"
+    },
+    {
+      "t": 355.3,
+      "titulo": "Recorda"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "lit-metrica",
+  "duracion": 423.93,
+  "cues": [
+    {
+      "t": 69.8,
+      "reanudar": 74.8,
+      "preguntaId": "lit-metrica-01",
+      "tipo": "pausa",
+      "titulo": "Fins a l’última tònica"
+    },
+    {
+      "t": 121.33,
+      "reanudar": 126.33,
+      "preguntaId": "lit-metrica-08",
+      "tipo": "pausa",
+      "titulo": "La sinalefa"
+    },
+    {
+      "t": 190.9,
+      "reanudar": 195.9,
+      "preguntaId": "lit-metrica-17",
+      "tipo": "pausa",
+      "titulo": "La rima"
+    },
+    {
+      "t": 239.47,
+      "reanudar": 244.47,
+      "preguntaId": "lit-metrica-25",
+      "tipo": "pausa",
+      "titulo": "L’encavalcament"
+    },
+    {
+      "t": 352.63,
+      "reanudar": 356.63,
+      "preguntaId": "lit-metrica-26",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 1/3"
+    },
+    {
+      "t": 367.5,
+      "reanudar": 371.5,
+      "preguntaId": "lit-metrica-23",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 2/3"
+    },
+    {
+      "t": 380.47,
+      "reanudar": 384.47,
+      "preguntaId": "lit-metrica-29",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 21.6,
+      "titulo": "Explicació"
+    },
+    {
+      "t": 248.7,
+      "titulo": "Construeix la resposta"
+    },
+    {
+      "t": 302.07,
+      "titulo": "Dibuixa"
+    },
+    {
+      "t": 344.2,
+      "titulo": "Recorda"
+    }
+  ]
+}

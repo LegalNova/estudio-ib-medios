@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "ess-perspectives",
+  "duracion": 481.73,
+  "cues": [
+    {
+      "t": 99.9,
+      "reanudar": 104.9,
+      "preguntaId": "ess-perspectives-p1",
+      "tipo": "pausa",
+      "titulo": "Perspectives and worldviews"
+    },
+    {
+      "t": 172,
+      "reanudar": 177,
+      "preguntaId": "ess-perspectives-x16",
+      "tipo": "pausa",
+      "titulo": "Three EVSs"
+    },
+    {
+      "t": 240.07,
+      "reanudar": 245.07,
+      "preguntaId": "ess-perspectives-n02",
+      "tipo": "pausa",
+      "titulo": "The Akashinga case"
+    },
+    {
+      "t": 291.7,
+      "reanudar": 296.7,
+      "preguntaId": "ess-perspectives-p2",
+      "tipo": "pausa",
+      "titulo": "The environmental movement"
+    },
+    {
+      "t": 413.07,
+      "reanudar": 417.07,
+      "preguntaId": "ess-perspectives-x05",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 426.8,
+      "reanudar": 430.8,
+      "preguntaId": "ess-perspectives-x10",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 443.1,
+      "reanudar": 447.1,
+      "preguntaId": "ess-perspectives-n03",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 24.23,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 303,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 354.57,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 407.3,
+      "titulo": "Recall"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "unidad": "hi-guerra",
+  "duracion": 404.8,
+  "cues": [
+    {
+      "t": 80.9,
+      "reanudar": 85.9,
+      "preguntaId": "hi-gue-16",
+      "tipo": "pausa",
+      "titulo": "La guerra desde dentro"
+    },
+    {
+      "t": 161.57,
+      "reanudar": 166.57,
+      "preguntaId": "hi-gue-21",
+      "tipo": "pausa",
+      "titulo": "Derrota y revolución"
+    },
+    {
+      "t": 232.43,
+      "reanudar": 237.43,
+      "preguntaId": "hi-gue-09",
+      "tipo": "pausa",
+      "titulo": "El mito de la puñalada"
+    },
+    {
+      "t": 338.53,
+      "reanudar": 342.53,
+      "preguntaId": "hi-gue-05",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 354.53,
+      "reanudar": 358.53,
+      "preguntaId": "hi-gue-11",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 368.37,
+      "reanudar": 372.37,
+      "preguntaId": "hi-gue-08",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 19.03,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 245.17,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 292.6,
+      "titulo": "Dibuja"
+    },
+    {
+      "t": 329.07,
+      "titulo": "Recuerda"
+    }
+  ]
+}

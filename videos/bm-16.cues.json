@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "unidad": "bm-16",
+  "duracion": 450.93,
+  "cues": [
+    {
+      "t": 104.97,
+      "reanudar": 109.97,
+      "preguntaId": "bm-16-04",
+      "tipo": "pausa",
+      "titulo": "Why go multinational?"
+    },
+    {
+      "t": 192.73,
+      "reanudar": 197.73,
+      "preguntaId": "bm-16-30",
+      "tipo": "pausa",
+      "titulo": "Impact on host countries"
+    },
+    {
+      "t": 257.5,
+      "reanudar": 262.5,
+      "preguntaId": "bm-16-29",
+      "tipo": "pausa",
+      "titulo": "The UAE sets the rules"
+    },
+    {
+      "t": 376.5,
+      "reanudar": 380.5,
+      "preguntaId": "bm-16-23",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 390.43,
+      "reanudar": 394.43,
+      "preguntaId": "bm-16-24",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 409.2,
+      "reanudar": 413.2,
+      "preguntaId": "bm-16-27",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 20.87,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 267.63,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 367.37,
+      "titulo": "Recall"
+    }
+  ]
+}

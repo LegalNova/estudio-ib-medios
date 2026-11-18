@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "ess-models",
+  "duracion": 470,
+  "cues": [
+    {
+      "t": 55.97,
+      "reanudar": 60.97,
+      "preguntaId": "ess-models-x04",
+      "tipo": "pausa",
+      "titulo": "The SDGs"
+    },
+    {
+      "t": 144.03,
+      "reanudar": 149.03,
+      "preguntaId": "ess-models-n01",
+      "tipo": "pausa",
+      "titulo": "Planetary boundaries"
+    },
+    {
+      "t": 213.97,
+      "reanudar": 218.97,
+      "preguntaId": "ess-models-n10",
+      "tipo": "pausa",
+      "titulo": "The doughnut"
+    },
+    {
+      "t": 273.33,
+      "reanudar": 278.33,
+      "preguntaId": "ess-models-x13",
+      "tipo": "pausa",
+      "titulo": "Four complementary models"
+    },
+    {
+      "t": 403.07,
+      "reanudar": 407.07,
+      "preguntaId": "ess-models-p2",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 418.13,
+      "reanudar": 422.13,
+      "preguntaId": "ess-models-x14",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 432.23,
+      "reanudar": 436.23,
+      "preguntaId": "ess-models-x11",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 20.93,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 292.37,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 348.9,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 396.87,
+      "titulo": "Recall"
+    }
+  ]
+}

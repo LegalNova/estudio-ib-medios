@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "lit-figures",
+  "duracion": 418.23,
+  "cues": [
+    {
+      "t": 65.57,
+      "reanudar": 70.57,
+      "preguntaId": "lit-figures-31",
+      "tipo": "pausa",
+      "titulo": "Identificar no és analitzar"
+    },
+    {
+      "t": 138.3,
+      "reanudar": 143.3,
+      "preguntaId": "lit-figures-02",
+      "tipo": "pausa",
+      "titulo": "Figures de repetició"
+    },
+    {
+      "t": 176.63,
+      "reanudar": 181.63,
+      "preguntaId": "lit-figures-15",
+      "tipo": "pausa",
+      "titulo": "Figures de diàleg"
+    },
+    {
+      "t": 248.9,
+      "reanudar": 253.9,
+      "preguntaId": "lit-figures-38",
+      "tipo": "pausa",
+      "titulo": "Figures de significat"
+    },
+    {
+      "t": 351.87,
+      "reanudar": 355.87,
+      "preguntaId": "lit-figures-01",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 1/3"
+    },
+    {
+      "t": 369.87,
+      "reanudar": 373.87,
+      "preguntaId": "lit-figures-13",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 2/3"
+    },
+    {
+      "t": 383,
+      "reanudar": 387,
+      "preguntaId": "lit-figures-10",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 26.3,
+      "titulo": "Explicació"
+    },
+    {
+      "t": 261.17,
+      "titulo": "Construeix la resposta"
+    },
+    {
+      "t": 304.27,
+      "titulo": "Dibuixa"
+    },
+    {
+      "t": 342.33,
+      "titulo": "Recorda"
+    }
+  ]
+}

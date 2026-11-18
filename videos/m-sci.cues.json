@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "m-sci",
+  "duracion": 477.73,
+  "cues": [
+    {
+      "t": 107.77,
+      "reanudar": 112.77,
+      "preguntaId": "m-sci-n11",
+      "tipo": "pausa",
+      "titulo": "Notación científica"
+    },
+    {
+      "t": 171.23,
+      "reanudar": 176.23,
+      "preguntaId": "m-sci-v03",
+      "tipo": "pausa",
+      "titulo": "Redondear"
+    },
+    {
+      "t": 210.7,
+      "reanudar": 215.7,
+      "preguntaId": "m-sci-x09",
+      "tipo": "pausa",
+      "titulo": "Error porcentual"
+    },
+    {
+      "t": 271.07,
+      "reanudar": 276.07,
+      "preguntaId": "m-sci-x12",
+      "tipo": "pausa",
+      "titulo": "Porcentajes y divisas"
+    },
+    {
+      "t": 397.87,
+      "reanudar": 401.87,
+      "preguntaId": "m-sci-x13",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 414.43,
+      "reanudar": 418.43,
+      "preguntaId": "m-sci-x14",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 437.03,
+      "reanudar": 441.03,
+      "preguntaId": "m-sci-n08",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 28.9,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 284,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 335.5,
+      "titulo": "Dibuja"
+    },
+    {
+      "t": 388.9,
+      "titulo": "Recuerda"
+    }
+  ]
+}

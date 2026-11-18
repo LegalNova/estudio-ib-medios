@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "m-lines",
+  "duracion": 388.53,
+  "cues": [
+    {
+      "t": 64.1,
+      "reanudar": 69.1,
+      "preguntaId": "m-lines-p1",
+      "tipo": "pausa",
+      "titulo": "Vectores y distancias"
+    },
+    {
+      "t": 115.47,
+      "reanudar": 120.47,
+      "preguntaId": "m-lines-n03",
+      "tipo": "pausa",
+      "titulo": "La pendiente"
+    },
+    {
+      "t": 164.8,
+      "reanudar": 169.8,
+      "preguntaId": "m-lines-p4",
+      "tipo": "pausa",
+      "titulo": "Perpendiculares"
+    },
+    {
+      "t": 214.43,
+      "reanudar": 219.43,
+      "preguntaId": "m-lines-x11",
+      "tipo": "pausa",
+      "titulo": "Posición relativa"
+    },
+    {
+      "t": 316.87,
+      "reanudar": 320.87,
+      "preguntaId": "m-lines-n18",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 335.83,
+      "reanudar": 339.83,
+      "preguntaId": "m-lines-n09",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 351.57,
+      "reanudar": 355.57,
+      "preguntaId": "m-lines-n01",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 26.03,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 225.73,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 269.07,
+      "titulo": "Dibuja"
+    },
+    {
+      "t": 307.1,
+      "titulo": "Recuerda"
+    }
+  ]
+}

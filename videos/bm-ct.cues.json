@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "unidad": "bm-ct",
+  "duracion": 495.47,
+  "cues": [
+    {
+      "t": 118.33,
+      "reanudar": 123.33,
+      "preguntaId": "bm-ct-t02",
+      "tipo": "pausa",
+      "titulo": "AO1 and AO2"
+    },
+    {
+      "t": 209.4,
+      "reanudar": 214.4,
+      "preguntaId": "bm-ct-m3",
+      "tipo": "pausa",
+      "titulo": "The 10-mark skeleton"
+    },
+    {
+      "t": 270.67,
+      "reanudar": 275.67,
+      "preguntaId": "bm-ct-t12",
+      "tipo": "pausa",
+      "titulo": "Examine and calculate"
+    },
+    {
+      "t": 413.3,
+      "reanudar": 417.3,
+      "preguntaId": "bm-ct-t03",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 434.43,
+      "reanudar": 438.43,
+      "preguntaId": "bm-ct-m7",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 456.57,
+      "reanudar": 460.57,
+      "preguntaId": "bm-ct-n1",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 23.1,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 281.33,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 352.47,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 406.97,
+      "titulo": "Recall"
+    }
+  ]
+}

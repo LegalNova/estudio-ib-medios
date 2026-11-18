@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "unidad": "hi-edad-oro",
+  "duracion": 386.07,
+  "cues": [
+    {
+      "t": 74.27,
+      "reanudar": 79.27,
+      "preguntaId": "hi-oro-16",
+      "tipo": "pausa",
+      "titulo": "Stresemann y la recuperación"
+    },
+    {
+      "t": 130.3,
+      "reanudar": 135.3,
+      "preguntaId": "hi-oro-07",
+      "tipo": "pausa",
+      "titulo": "Ciudad moderna, campo olvidado"
+    },
+    {
+      "t": 219.37,
+      "reanudar": 224.37,
+      "preguntaId": "hi-oro-11",
+      "tipo": "pausa",
+      "titulo": "Los nazis en el desierto"
+    },
+    {
+      "t": 320.3,
+      "reanudar": 324.3,
+      "preguntaId": "hi-oro-02",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 336.57,
+      "reanudar": 340.57,
+      "preguntaId": "hi-oro-10",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 349.77,
+      "reanudar": 353.77,
+      "preguntaId": "hi-oro-12",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 23.97,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 231.4,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 282.6,
+      "titulo": "Dibuja"
+    },
+    {
+      "t": 314.03,
+      "titulo": "Recuerda"
+    }
+  ]
+}

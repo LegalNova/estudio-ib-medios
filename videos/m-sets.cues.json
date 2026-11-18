@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "m-sets",
+  "duracion": 415.23,
+  "cues": [
+    {
+      "t": 73.2,
+      "reanudar": 78.2,
+      "preguntaId": "m-sets-x14",
+      "tipo": "pausa",
+      "titulo": "Conjuntos de números"
+    },
+    {
+      "t": 132.27,
+      "reanudar": 137.27,
+      "preguntaId": "m-sets-x11",
+      "tipo": "pausa",
+      "titulo": "Venn de dos conjuntos"
+    },
+    {
+      "t": 197.43,
+      "reanudar": 202.43,
+      "preguntaId": "m-sets-t01",
+      "tipo": "pausa",
+      "titulo": "La trampa de la «y»"
+    },
+    {
+      "t": 227.4,
+      "reanudar": 232.4,
+      "preguntaId": "m-sets-t02",
+      "tipo": "pausa",
+      "titulo": "Leer regiones"
+    },
+    {
+      "t": 345.6,
+      "reanudar": 349.6,
+      "preguntaId": "m-sets-n01",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 365.93,
+      "reanudar": 369.93,
+      "preguntaId": "m-sets-n13",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 380.63,
+      "reanudar": 384.63,
+      "preguntaId": "m-sets-n06",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 30.07,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 237.6,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 280.43,
+      "titulo": "Dibuja"
+    },
+    {
+      "t": 330.5,
+      "titulo": "Recuerda"
+    }
+  ]
+}

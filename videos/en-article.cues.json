@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "en-article",
+  "duracion": 429.53,
+  "cues": [
+    {
+      "t": 75.07,
+      "reanudar": 80.07,
+      "preguntaId": "en-art-35",
+      "tipo": "pausa",
+      "titulo": "Article features"
+    },
+    {
+      "t": 133.7,
+      "reanudar": 138.7,
+      "preguntaId": "en-art-34",
+      "tipo": "pausa",
+      "titulo": "From the task to the plan"
+    },
+    {
+      "t": 192.53,
+      "reanudar": 197.53,
+      "preguntaId": "en-art-63",
+      "tipo": "pausa",
+      "titulo": "Title, byline and hook"
+    },
+    {
+      "t": 243.13,
+      "reanudar": 248.13,
+      "preguntaId": "en-art-53",
+      "tipo": "pausa",
+      "titulo": "Choosing the text type"
+    },
+    {
+      "t": 365.03,
+      "reanudar": 369.03,
+      "preguntaId": "en-art-14",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 379.13,
+      "reanudar": 383.13,
+      "preguntaId": "en-art-06",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 394.57,
+      "reanudar": 398.57,
+      "preguntaId": "en-art-52",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 25.9,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 251.8,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 309.6,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 357.73,
+      "titulo": "Recall"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "ess-earth",
+  "duracion": 455.4,
+  "cues": [
+    {
+      "t": 73.7,
+      "reanudar": 78.7,
+      "preguntaId": "ess-earth-x01",
+      "tipo": "pausa",
+      "titulo": "Earth is one system"
+    },
+    {
+      "t": 168.17,
+      "reanudar": 173.17,
+      "preguntaId": "ess-earth-x11",
+      "tipo": "pausa",
+      "titulo": "A desert that feeds a rainforest"
+    },
+    {
+      "t": 223.2,
+      "reanudar": 228.2,
+      "preguntaId": "ess-earth-n03",
+      "tipo": "pausa",
+      "titulo": "Daisyworld"
+    },
+    {
+      "t": 261.93,
+      "reanudar": 266.93,
+      "preguntaId": "ess-earth-x05",
+      "tipo": "pausa",
+      "titulo": "Merits and criticisms"
+    },
+    {
+      "t": 389.17,
+      "reanudar": 393.17,
+      "preguntaId": "ess-earth-n02",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 401.8,
+      "reanudar": 405.8,
+      "preguntaId": "ess-earth-x03",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 417.33,
+      "reanudar": 421.33,
+      "preguntaId": "ess-earth-x04",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 20.47,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 275.97,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 332.1,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 380.5,
+      "titulo": "Recall"
+    }
+  ]
+}

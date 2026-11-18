@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "en-io",
+  "duracion": 404.13,
+  "cues": [
+    {
+      "t": 60.37,
+      "reanudar": 65.37,
+      "preguntaId": "en-io-19",
+      "tipo": "pausa",
+      "titulo": "The format of the IO"
+    },
+    {
+      "t": 118.43,
+      "reanudar": 123.43,
+      "preguntaId": "en-io-09",
+      "tipo": "pausa",
+      "titulo": "Your presentation plan"
+    },
+    {
+      "t": 166.1,
+      "reanudar": 171.1,
+      "preguntaId": "en-io-04",
+      "tipo": "pausa",
+      "titulo": "Characters and symbols"
+    },
+    {
+      "t": 229.03,
+      "reanudar": 234.03,
+      "preguntaId": "en-io-22",
+      "tipo": "pausa",
+      "titulo": "Answering the teacher"
+    },
+    {
+      "t": 344.23,
+      "reanudar": 348.23,
+      "preguntaId": "en-io-07",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 353.1,
+      "reanudar": 357.1,
+      "preguntaId": "en-io-05",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 367.83,
+      "reanudar": 371.83,
+      "preguntaId": "en-io-08",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 20.33,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 241.87,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 297.33,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 339.47,
+      "titulo": "Recall"
+    }
+  ]
+}

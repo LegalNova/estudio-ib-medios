@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "bm-toolkit",
+  "duracion": 506.33,
+  "cues": [
+    {
+      "t": 85.83,
+      "reanudar": 90.83,
+      "preguntaId": "bm-tk-t02",
+      "tipo": "pausa",
+      "titulo": "SWOT and STEEPLE"
+    },
+    {
+      "t": 144.77,
+      "reanudar": 149.77,
+      "preguntaId": "bm-tk-t04",
+      "tipo": "pausa",
+      "titulo": "Ansoff"
+    },
+    {
+      "t": 251.27,
+      "reanudar": 256.27,
+      "preguntaId": "bm-tk-t06",
+      "tipo": "pausa",
+      "titulo": "Decision trees"
+    },
+    {
+      "t": 299.7,
+      "reanudar": 304.7,
+      "preguntaId": "bm-tk-t08",
+      "tipo": "pausa",
+      "titulo": "Circular business models"
+    },
+    {
+      "t": 442.57,
+      "reanudar": 446.57,
+      "preguntaId": "bm-tk-m2",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 458.4,
+      "reanudar": 462.4,
+      "preguntaId": "bm-tk-m10",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 473.03,
+      "reanudar": 477.03,
+      "preguntaId": "bm-tk-m1",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 24.1,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 310.67,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 385.4,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 437.27,
+      "titulo": "Recall"
+    }
+  ]
+}

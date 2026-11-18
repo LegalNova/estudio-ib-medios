@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "en-vocab",
+  "duracion": 424.1,
+  "cues": [
+    {
+      "t": 84.83,
+      "reanudar": 89.83,
+      "preguntaId": "en-vocab-22",
+      "tipo": "pausa",
+      "titulo": "The word bank"
+    },
+    {
+      "t": 156.17,
+      "reanudar": 161.17,
+      "preguntaId": "en-vocab-24",
+      "tipo": "pausa",
+      "titulo": "Real subcultures"
+    },
+    {
+      "t": 209.63,
+      "reanudar": 214.63,
+      "preguntaId": "en-vocab-26",
+      "tipo": "pausa",
+      "titulo": "Arguing with opposites"
+    },
+    {
+      "t": 260.07,
+      "reanudar": 265.07,
+      "preguntaId": "en-vocab-25",
+      "tipo": "pausa",
+      "titulo": "Key distinctions"
+    },
+    {
+      "t": 364.83,
+      "reanudar": 368.83,
+      "preguntaId": "en-vocab-14",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 376.93,
+      "reanudar": 380.93,
+      "preguntaId": "en-vocab-07",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 392.93,
+      "reanudar": 396.93,
+      "preguntaId": "en-vocab-19",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 21.67,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 269.73,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 324.63,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 358.67,
+      "titulo": "Recall"
+    }
+  ]
+}

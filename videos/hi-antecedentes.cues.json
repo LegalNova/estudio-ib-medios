@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "unidad": "hi-antecedentes",
+  "duracion": 436,
+  "cues": [
+    {
+      "t": 77.83,
+      "reanudar": 82.83,
+      "preguntaId": "hi-ant-03",
+      "tipo": "pausa",
+      "titulo": "Un imperio gobernado desde arriba"
+    },
+    {
+      "t": 171.8,
+      "reanudar": 176.8,
+      "preguntaId": "hi-ant-06",
+      "tipo": "pausa",
+      "titulo": "Del odio religioso a la «raza»"
+    },
+    {
+      "t": 242.2,
+      "reanudar": 247.2,
+      "preguntaId": "hi-ant-21",
+      "tipo": "pausa",
+      "titulo": "Conspiraciones y falsa ciencia"
+    },
+    {
+      "t": 358.07,
+      "reanudar": 362.07,
+      "preguntaId": "hi-ant-02",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 379.7,
+      "reanudar": 383.7,
+      "preguntaId": "hi-ant-08",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 393.57,
+      "reanudar": 397.57,
+      "preguntaId": "hi-ant-19",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 26.27,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 254.77,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 309.13,
+      "titulo": "Dibuja"
+    },
+    {
+      "t": 352.2,
+      "titulo": "Recuerda"
+    }
+  ]
+}

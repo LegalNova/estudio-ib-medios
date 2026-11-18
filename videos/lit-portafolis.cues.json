@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "lit-portafolis",
+  "duracion": 414.9,
+  "cues": [
+    {
+      "t": 60,
+      "reanudar": 65,
+      "preguntaId": "lit-portafolis-01",
+      "tipo": "pausa",
+      "titulo": "Àrees d’exploració"
+    },
+    {
+      "t": 125.53,
+      "reanudar": 130.53,
+      "preguntaId": "lit-portafolis-02",
+      "tipo": "pausa",
+      "titulo": "Els set conceptes"
+    },
+    {
+      "t": 183.83,
+      "reanudar": 188.83,
+      "preguntaId": "lit-portafolis-14",
+      "tipo": "pausa",
+      "titulo": "El portafolis"
+    },
+    {
+      "t": 237.77,
+      "reanudar": 242.77,
+      "preguntaId": "lit-portafolis-20",
+      "tipo": "pausa",
+      "titulo": "Tema i passatges clau"
+    },
+    {
+      "t": 340.17,
+      "reanudar": 344.17,
+      "preguntaId": "lit-portafolis-03",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 1/3"
+    },
+    {
+      "t": 359.17,
+      "reanudar": 363.17,
+      "preguntaId": "lit-portafolis-09",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 2/3"
+    },
+    {
+      "t": 376.23,
+      "reanudar": 380.23,
+      "preguntaId": "lit-portafolis-13",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 20.77,
+      "titulo": "Explicació"
+    },
+    {
+      "t": 252.77,
+      "titulo": "Construeix la resposta"
+    },
+    {
+      "t": 299.07,
+      "titulo": "Dibuixa"
+    },
+    {
+      "t": 333.8,
+      "titulo": "Recorda"
+    }
+  ]
+}

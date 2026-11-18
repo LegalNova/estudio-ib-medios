@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "unidad": "hi-nsdap",
+  "duracion": 397.7,
+  "cues": [
+    {
+      "t": 59.73,
+      "reanudar": 64.73,
+      "preguntaId": "hi-nsd-01",
+      "tipo": "pausa",
+      "titulo": "Un partido de cervecería"
+    },
+    {
+      "t": 151.27,
+      "reanudar": 156.27,
+      "preguntaId": "hi-nsd-08",
+      "tipo": "pausa",
+      "titulo": "El Putsch y el juicio"
+    },
+    {
+      "t": 233.87,
+      "reanudar": 238.87,
+      "preguntaId": "hi-nsd-11",
+      "tipo": "pausa",
+      "titulo": "Mein Kampf y la nueva estrategia"
+    },
+    {
+      "t": 332.2,
+      "reanudar": 336.2,
+      "preguntaId": "hi-nsd-04",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 1/3"
+    },
+    {
+      "t": 347.43,
+      "reanudar": 351.43,
+      "preguntaId": "hi-nsd-09",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 2/3"
+    },
+    {
+      "t": 361.13,
+      "reanudar": 365.13,
+      "preguntaId": "hi-nsd-13",
+      "tipo": "recuerda",
+      "titulo": "Pregunta rápida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 17.73,
+      "titulo": "Explicación"
+    },
+    {
+      "t": 246.03,
+      "titulo": "Construye la respuesta"
+    },
+    {
+      "t": 289.53,
+      "titulo": "Dibuja"
+    },
+    {
+      "t": 325.6,
+      "titulo": "Recuerda"
+    }
+  ]
+}

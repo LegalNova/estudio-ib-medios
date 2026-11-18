@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "unidad": "bm-14",
+  "duracion": 461.97,
+  "cues": [
+    {
+      "t": 106.9,
+      "reanudar": 111.9,
+      "preguntaId": "bm-14-04",
+      "tipo": "pausa",
+      "titulo": "Who are the stakeholders?"
+    },
+    {
+      "t": 181,
+      "reanudar": 186,
+      "preguntaId": "bm-14-27",
+      "tipo": "pausa",
+      "titulo": "Conflict at VoltNord"
+    },
+    {
+      "t": 251.97,
+      "reanudar": 256.97,
+      "preguntaId": "bm-14-28",
+      "tipo": "pausa",
+      "titulo": "Change and conflict"
+    },
+    {
+      "t": 399.4,
+      "reanudar": 403.4,
+      "preguntaId": "bm-14-26",
+      "tipo": "recuerda",
+      "titulo": "Quick question 1/3"
+    },
+    {
+      "t": 413.13,
+      "reanudar": 417.13,
+      "preguntaId": "bm-14-31",
+      "tipo": "recuerda",
+      "titulo": "Quick question 2/3"
+    },
+    {
+      "t": 426.5,
+      "reanudar": 430.5,
+      "preguntaId": "bm-14-09",
+      "tipo": "recuerda",
+      "titulo": "Quick question 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 24.77,
+      "titulo": "Explanation"
+    },
+    {
+      "t": 262.77,
+      "titulo": "Build the answer"
+    },
+    {
+      "t": 336.27,
+      "titulo": "Draw it"
+    },
+    {
+      "t": 389.83,
+      "titulo": "Recall"
+    }
+  ]
+}
