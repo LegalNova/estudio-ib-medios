@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "lit-criteris",
+  "duracion": 360.57,
+  "cues": [
+    {
+      "t": 82,
+      "reanudar": 87,
+      "preguntaId": "lit-criteris-04",
+      "tipo": "pausa",
+      "titulo": "Criteri A"
+    },
+    {
+      "t": 143.07,
+      "reanudar": 148.07,
+      "preguntaId": "lit-criteris-22",
+      "tipo": "pausa",
+      "titulo": "Criteri B"
+    },
+    {
+      "t": 194.47,
+      "reanudar": 199.47,
+      "preguntaId": "lit-criteris-25",
+      "tipo": "pausa",
+      "titulo": "Criteri C"
+    },
+    {
+      "t": 228,
+      "reanudar": 233,
+      "preguntaId": "lit-criteris-17",
+      "tipo": "pausa",
+      "titulo": "Criteri D"
+    },
+    {
+      "t": 292.03,
+      "reanudar": 296.03,
+      "preguntaId": "lit-criteris-07",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 1/3"
+    },
+    {
+      "t": 306.57,
+      "reanudar": 310.57,
+      "preguntaId": "lit-criteris-09",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 2/3"
+    },
+    {
+      "t": 321.83,
+      "reanudar": 325.83,
+      "preguntaId": "lit-criteris-12",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 24.7,
+      "titulo": "Explicació"
+    },
+    {
+      "t": 239.03,
+      "titulo": "Construeix la resposta"
+    },
+    {
+      "t": 241.63,
+      "titulo": "Dibuixa"
+    },
+    {
+      "t": 287.1,
+      "titulo": "Recorda"
+    }
+  ]
+}

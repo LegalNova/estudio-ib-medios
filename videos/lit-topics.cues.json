@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "lit-topics",
+  "duracion": 426.2,
+  "cues": [
+    {
+      "t": 89.87,
+      "reanudar": 94.87,
+      "preguntaId": "lit-topics-02",
+      "tipo": "pausa",
+      "titulo": "Els tòpics"
+    },
+    {
+      "t": 144.7,
+      "reanudar": 149.7,
+      "preguntaId": "lit-topics-16",
+      "tipo": "pausa",
+      "titulo": "Com es renova un tòpic"
+    },
+    {
+      "t": 192.83,
+      "reanudar": 197.83,
+      "preguntaId": "lit-topics-12",
+      "tipo": "pausa",
+      "titulo": "Autor i jo poètic"
+    },
+    {
+      "t": 249.8,
+      "reanudar": 254.8,
+      "preguntaId": "lit-topics-11",
+      "tipo": "pausa",
+      "titulo": "Actituds i to"
+    },
+    {
+      "t": 350.07,
+      "reanudar": 354.07,
+      "preguntaId": "lit-topics-14",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 1/3"
+    },
+    {
+      "t": 366.8,
+      "reanudar": 370.8,
+      "preguntaId": "lit-topics-17",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 2/3"
+    },
+    {
+      "t": 381.3,
+      "reanudar": 385.3,
+      "preguntaId": "lit-topics-19",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 22.3,
+      "titulo": "Explicació"
+    },
+    {
+      "t": 260.03,
+      "titulo": "Construeix la resposta"
+    },
+    {
+      "t": 306.97,
+      "titulo": "Dibuixa"
+    },
+    {
+      "t": 343.13,
+      "titulo": "Recorda"
+    }
+  ]
+}

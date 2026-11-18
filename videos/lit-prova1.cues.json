@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "lit-prova1",
+  "duracion": 425.13,
+  "cues": [
+    {
+      "t": 59.57,
+      "reanudar": 64.57,
+      "preguntaId": "lit-prova1-16",
+      "tipo": "pausa",
+      "titulo": "Temps i pas previ"
+    },
+    {
+      "t": 106.33,
+      "reanudar": 111.33,
+      "preguntaId": "lit-prova1-02",
+      "tipo": "pausa",
+      "titulo": "La introducció"
+    },
+    {
+      "t": 171.07,
+      "reanudar": 176.07,
+      "preguntaId": "lit-prova1-05",
+      "tipo": "pausa",
+      "titulo": "El desenvolupament"
+    },
+    {
+      "t": 241.53,
+      "reanudar": 246.53,
+      "preguntaId": "lit-prova1-18",
+      "tipo": "pausa",
+      "titulo": "El comentari model"
+    },
+    {
+      "t": 363.23,
+      "reanudar": 367.23,
+      "preguntaId": "lit-prova1-22",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 1/3"
+    },
+    {
+      "t": 373.93,
+      "reanudar": 377.93,
+      "preguntaId": "lit-prova1-07",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 2/3"
+    },
+    {
+      "t": 388.1,
+      "reanudar": 392.1,
+      "preguntaId": "lit-prova1-20",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 22.53,
+      "titulo": "Explicació"
+    },
+    {
+      "t": 254.83,
+      "titulo": "Construeix la resposta"
+    },
+    {
+      "t": 310.2,
+      "titulo": "Dibuixa"
+    },
+    {
+      "t": 353.07,
+      "titulo": "Recorda"
+    }
+  ]
+}

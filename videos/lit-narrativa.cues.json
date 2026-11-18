@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "unidad": "lit-narrativa",
+  "duracion": 436.5,
+  "cues": [
+    {
+      "t": 78.77,
+      "reanudar": 83.77,
+      "preguntaId": "lit-narrativa-03",
+      "tipo": "pausa",
+      "titulo": "Tipus de narrador"
+    },
+    {
+      "t": 127.47,
+      "reanudar": 132.47,
+      "preguntaId": "lit-narrativa-21",
+      "tipo": "pausa",
+      "titulo": "Narrador i focalització"
+    },
+    {
+      "t": 185.1,
+      "reanudar": 190.1,
+      "preguntaId": "lit-narrativa-08",
+      "tipo": "pausa",
+      "titulo": "El temps del relat"
+    },
+    {
+      "t": 241.63,
+      "reanudar": 246.63,
+      "preguntaId": "lit-narrativa-18",
+      "tipo": "pausa",
+      "titulo": "Estils de discurs"
+    },
+    {
+      "t": 359.2,
+      "reanudar": 363.2,
+      "preguntaId": "lit-narrativa-16",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 1/3"
+    },
+    {
+      "t": 372.03,
+      "reanudar": 376.03,
+      "preguntaId": "lit-narrativa-19",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 2/3"
+    },
+    {
+      "t": 399.47,
+      "reanudar": 403.47,
+      "preguntaId": "lit-narrativa-07",
+      "tipo": "recuerda",
+      "titulo": "Pregunta ràpida 3/3"
+    }
+  ],
+  "capitulos": [
+    {
+      "t": 23,
+      "titulo": "Explicació"
+    },
+    {
+      "t": 262.2,
+      "titulo": "Construeix la resposta"
+    },
+    {
+      "t": 309.83,
+      "titulo": "Dibuixa"
+    },
+    {
+      "t": 351.13,
+      "titulo": "Recorda"
+    }
+  ]
+}
